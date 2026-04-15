@@ -5,7 +5,7 @@ import Container from "@srccommons/Container";
 import Image from "next/image";
 import Link from "next/link";
 import styles from "@assets/scss/home.module.scss";
-import logo from "@assets/images/logo.svg";
+import logo from "@assets/images/logo.png";
 import MenuMobile from "./MenuMobile";
 import "@assets/scss/home.scss";
 import { usePathname } from "next/navigation";

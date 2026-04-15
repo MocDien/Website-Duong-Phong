@@ -3,7 +3,7 @@ import Container from "@srccommons/Container";
 import Image from "next/image";
 import Link from "next/link";
 import styles from "@assets/scss/home.module.scss";
-import logo from "@assets/images/logo.svg";
+import logo from "@assets/images/logo.png";
 import MenuMobile from "../../commons/MenuMobile";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
