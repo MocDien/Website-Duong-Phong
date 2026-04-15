@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import styles from "@assets/scss/home.module.scss";
-import logo2 from "@assets/images/logo.svg";
+import logo2 from "@assets/images/logo.png";
 import flagVN from "@assets/images/vietnam.png";
 import flagUK from "@assets/images/UK.png";
 import { useTranslation } from "react-i18next";
