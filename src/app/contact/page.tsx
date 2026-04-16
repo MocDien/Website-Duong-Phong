@@ -5,7 +5,7 @@ import Container from "@srccommons/Container";
 import Screen from "@srccommons/Screen";
 import { useRouter } from "next/navigation";
 import React from "react";
-import logoBlack from "@assets/images/logo.svg";
+import logoBlack from "@assets/images/logo.png";
 import phone2 from "@assets/images/phone1.svg";
 import { IconEmail, IconFax, IconLocation, IconPhone } from "@srccommons/icons";
 import Image from "next/image";
